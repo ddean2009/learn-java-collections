@@ -12,6 +12,7 @@
         <module>Iterator-to-list</module>
         <module>UnsupportedOperationException</module>
         <module>asList</module>
+        <module>copyList</module>
     </modules>
 
     <dependencies>
