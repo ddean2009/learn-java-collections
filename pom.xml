@@ -13,6 +13,7 @@
         <module>UnsupportedOperationException</module>
         <module>asList</module>
         <module>copyList</module>
+        <module>hashMap-treeMap</module>
     </modules>
 
     <dependencies>
