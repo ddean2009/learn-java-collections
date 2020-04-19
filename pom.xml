@@ -14,6 +14,7 @@
         <module>asList</module>
         <module>copyList</module>
         <module>hashMap-treeMap</module>
+        <module>hashMap-LinkedHashMap</module>
     </modules>
 
     <dependencies>
