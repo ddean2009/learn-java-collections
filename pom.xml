@@ -15,6 +15,8 @@
         <module>copyList</module>
         <module>hashMap-treeMap</module>
         <module>hashMap-LinkedHashMap</module>
+        <module>for-each</module>
+        <module>enum</module>
     </modules>
 
     <dependencies>
