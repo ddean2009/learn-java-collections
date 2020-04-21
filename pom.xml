@@ -17,6 +17,7 @@
         <module>hashMap-LinkedHashMap</module>
         <module>for-each</module>
         <module>enum</module>
+        <module>WeakHashMap</module>
     </modules>
 
     <dependencies>
