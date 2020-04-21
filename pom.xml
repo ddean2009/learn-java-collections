@@ -18,6 +18,7 @@
         <module>for-each</module>
         <module>enum</module>
         <module>WeakHashMap</module>
+        <module>Comparable-Comparator</module>
     </modules>
 
     <dependencies>
