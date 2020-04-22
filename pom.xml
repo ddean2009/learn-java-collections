@@ -20,6 +20,7 @@
         <module>WeakHashMap</module>
         <module>Comparable-Comparator</module>
         <module>ConcurrentSkipListMap</module>
+        <module>queue</module>
     </modules>
 
     <dependencies>
