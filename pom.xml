@@ -19,6 +19,7 @@
         <module>enum</module>
         <module>WeakHashMap</module>
         <module>Comparable-Comparator</module>
+        <module>ConcurrentSkipListMap</module>
     </modules>
 
     <dependencies>
