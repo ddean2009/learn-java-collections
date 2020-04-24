@@ -21,6 +21,7 @@
         <module>Comparable-Comparator</module>
         <module>ConcurrentSkipListMap</module>
         <module>queue</module>
+        <module>type-erase</module>
     </modules>
 
     <dependencies>
