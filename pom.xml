@@ -22,6 +22,7 @@
         <module>ConcurrentSkipListMap</module>
         <module>queue</module>
         <module>type-erase</module>
+        <module>Generics</module>
     </modules>
 
     <dependencies>
